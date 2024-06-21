@@ -1,6 +1,6 @@
 
 #/bin/bash
-a=1
+a=0
 
 # lt is less than operator
 #Iterate the loop until a less than 10
