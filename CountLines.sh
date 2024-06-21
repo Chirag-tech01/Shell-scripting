@@ -13,5 +13,5 @@ count() {
 
 # Calling the function 
 count "myfile.txt"
-count "anotherfile.txt"
+count "differentfile.txt"
 count "nonexistentfile.txt"
